@@ -1,6 +1,6 @@
 
 
-> <div style="background-color:rgba(255, 249, 234, 1); text-align:center; vertical-align: middle; padding:40px 0;">
+> <div style="background-color:rgba(255, 249, 234, .5); text-align:center; vertical-align: middle; padding:40px 0;">
 <a href="/donate">DONATE</a>
 </div>
 
